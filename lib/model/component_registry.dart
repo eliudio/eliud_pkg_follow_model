@@ -49,9 +49,6 @@ class ComponentRegistry {
       "inviteDashboards",
     ]);
 
-    Apis.apis().getRegistryApi().register(
-        componentName: "eliud_pkg_follow_model_internalWidgets",
-        componentConstructor: ListComponentFactory());
     Apis.apis().getRegistryApi().addDropDownSupporter(
         "followingDashboards", DropdownButtonComponentFactory());
     Apis.apis().getRegistryApi().register(

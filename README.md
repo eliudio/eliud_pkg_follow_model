@@ -1,10 +1,14 @@
-# eliud_pkg_follow
+# eliud_pkg_follow_model
 
-Eliud follow package
+Eliud follow model package
 
 ## Dependency diagram
 
-![Dependency diagram](https://github.com/eliudio/eliud_pkg_follow/raw/main/depends.jpg)
+![Dependency diagram](https://github.com/eliudio/eliud_pkg_follow_model/raw/main/depends.jpg)
+
+### links
+|Package                                                                    |Description                                            |
+|---------------------------------------------------------------------------|-------------------------------------------------------|
 
 ## eliud.io
 
